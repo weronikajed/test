@@ -1,0 +1,500 @@
+   68  python3 names.py
+   69  python3 names.py
+   70  python3 names.py
+   71  cd Desktop
+   72  cd coding
+   73  python3 names.py
+   74  python3 names.py
+   75  python3 programslowa.py 
+   76  python3 programslowa.py 
+   77  python3 programslowa.py 
+   78  python3 programslowa.py 
+   79  python3 programslowa.py 
+   80  python3 programslowa.py 
+   81  python3 programslowa.py 
+   82  python3 programslowa.py 
+   83  python3 programslowa.py 
+   84  python3 programslowa.py 
+   85  python3 programslowa.py 
+   86  python3 programslowa.py 
+   87  python3 programslowa.py 
+   88  python3 programslowa.py 
+   89  python3 programslowa.py 
+   90  python3 bubblesort.py 
+   91  python3 bubblesort.py 
+   92  python3 bubblesort.py 
+   93  python3 bubblesort.py 
+   94  python3 bubblesort.py 
+   95  python3 bubblesort.py 
+   96  python3 bubblesort.py 
+   97  python3 min.py 
+   98  python3 min.py 
+   99  python3 min.py 
+  100  python3 min.py 
+  101  python3 min.py 
+  102  python3 min.py 
+  103  cd Desktop
+  104  cd coding
+  105  python3 klawiatura.py 
+  106  python3 klawiatura.py 
+  107  python3 klawiatura.py 
+  108  python3 klawiatura.py 
+  109  python3 klawiatura.py 
+  110  python3 klawiatura.py 
+  111  python3 klawiatura.py
+  112  python3 klawiatura.py
+  113  python3 klawiatura.py
+  114  python3 klawiatura.py
+  115  python3 klawiatura.py
+  116  python3 klawiatura.py
+  117  python3 klawiatura.py
+  118  python3 klawiatura.py
+  119  python3 klawiatura.py
+  120  python3 klawiatura.py
+  121  python3 klawiatura.py
+  122  python3 klawiatura.py
+  123  python3 klawiatura.py
+  124  python3 klawiatura.py
+  125  python3 klawiatura.py
+  126  python3 klawiatura.py
+  127  python3 klawiatura.py
+  128  python3 klawiatura.py
+  129  python3 klawiatura.py
+  130  python3 klawiatura.py
+  131  python3 klawiatura.py
+  132  python3 klawiatura.py
+  133  python3 klawiatura.py
+  134  python3 klawiatura.py
+  135  python3 klawiatura.py
+  136  python3 klawiatura.py
+  137  python3 klawiatura.py
+  138  python3 klawiatura.py
+  139  python3 klawiatura.py
+  140  python3 klawiatura.py
+  141  python3 klawiatura.py
+  142  python3 klawiatura.py
+  143  python3 klawiatura.py
+  144  python3 klawiatura.py
+  145  python3 klawiatura.py
+  146  python3 klawiatura.py
+  147  python3 klawiatura.py
+  148  python3 klawiatura.py
+  149  python3 klawiatura.py
+  150  python3 klawiatura.py
+  151  python3 klawiatura.py
+  152  python3 klawiatura.py
+  153  python3 klawiatura.py
+  154  python3 klawiatura.py
+  155  python3 klawiatura.py
+  156  python3 klawiatura.py
+  157  python3 klawiatura.py
+  158  python3 klawiatura.py
+  159  python3 klawiatura.py
+  160  cd Desktop
+  161  cd coding
+  162  python3 klawiatura.py
+  163  python3 klawiatura.py
+  164  python3 hangman.py
+  165  python3 hangman.py
+  166  cd Desktop
+  167  cd coding
+  168  python3 xoxo.py
+  169  python3 xoxo.py
+  170  cd Desktop
+  171  cd coding
+  172  python3 programslowa.py
+  173  cd Desktop
+  174  ls
+  175  cd
+  176  cd desktop
+  177  python3 model.py
+  178  python3 model.py
+  179  python3 model.py
+  180  cd desktop
+  181  cd coding
+  182  mkdir projekt1
+  183  ls 
+  184  cd projekt1
+  185  pip3 install django
+  186  python3 -m venv dj
+  187  ls 
+  188  source dj/bin/activate
+  189  pip list
+  190  pip install django
+  191  pip list
+  192  django-admin
+  193  django-admin startproject page .
+  194  ls
+  195  cd page
+  196  ls
+  197  cat urls.py
+  198  cat settings.py 
+  199  ls
+  200  cd ..
+  201  ls
+  202  python manage.py 
+  203  python manage.py migrate
+  204  ls 
+  205  django-admin 
+  206  django-admin runserver
+  207  putho
+  208  python manage.py runserver
+  209  python manage.py runserver
+  210  python manage.py
+  211  python manage.py startapp blog
+  212  ls
+  213  cd blog
+  214  ls
+  215  cat models.py 
+  216  cd ..
+  217  python manage.py makemigrations blog
+  218  python manage.py migrate blog
+  219  python manage.py runserver 
+  220  cd blog
+  221  ls
+  222  cd ..
+  223  python manage.py runserver
+  224  python manage.py runserver
+  225  python manage.py 
+  226  python manage.py cre
+  227  python manage.py runserver
+  228  cd Desktop
+  229  cd project1
+  230  cd desktop
+  231  cd coding
+  232  ls
+  233  cd desktop
+  234  cd coding
+  235  ls
+  236  cd desktop
+  237  cd coding
+  238  ls
+  239  python3-m venv dj
+  240  python3 
+  241  cd desktop
+  242  cd coding
+  243  source dj/bin/activate
+  244  django_admin
+  245  os django
+  246  cd desktop
+  247  cd coding
+  248  ls
+  249  cat util.py
+  250  cd desktop
+  251  cd coding
+  252  ls
+  253  cat util.py
+  254  python3 -m venv dj
+  255  django_admin
+  256  source dj/bin/activate
+  257  cat
+  258  ls
+  259  cat version.py
+  260  cd desktop
+  261  cd coding
+  262  ls
+  263  cat xoxo.py
+  264  python3 xoxo.py
+  265  python3 xoxo.py
+  266  python3 xoxo.py
+  267  python3 xoxo.py
+  268  cd desktop
+  269  cd coding
+  270  cd coding
+  271  python3 klawiatura.py
+  272  python3 klawiatura.py
+  273  python3 klawiatura.py
+  274  python3 klawiatura.py
+  275  python3 klawiatura.py
+  276  python3 klawiatura.py
+  277  python3 klawiatura.py
+  278  python3 klawiatura.py
+  279  we;ljbwked,\iw
+  280  jvhds k
+  281  vfhdg dk
+  282  f vjh v
+  283  fb vf
+  284  dmcn 
+  285  cd desktop
+  286  cd coding
+  287  ls
+  288  condo
+  289  ls
+  290  cd public
+  291  ls
+  292  cat 
+  293  cd Desktop
+  294  cd coding
+  295  ls
+  296  ython3
+  297  python3
+  298  cd desktop
+  299  cd coding
+  300  python3 hello.py iga
+  301  python3 hello.py iga wera ziemniak
+  302  python3 hello.py iga wera ziemniak
+  303  python3 hello.py wera
+  304  mkdir strona1
+  305  cd strona1
+  306  python3 -m virtualenv
+  307  python3 -m virtualenv strona1
+  308  python -m virtualenv strona1
+  309  virtualenv
+  310  pip install virtualenv
+  311  python
+  312  pip install virtualenv
+  313  python
+  314  python -m pip install virtualenv
+  315  pip3 install virtualenv
+  316  virtualenv venv
+  317  ls
+  318  source venv/bin/activate
+  319  pip list
+  320  pip install django
+  321  pip freeze > requirements.txt
+  322  cat requirements.txt 
+  323  django-admin 
+  324  django-admin startproject
+  325  django-admin startproject strona
+  326  ls
+  327  cd strona
+  328  ls
+  329  cd strona
+  330  ls
+  331  cd ..
+  332  python manage.py
+  333  p
+  334  python manage.py startapp app1
+  335  ls
+  336  python manage.py migrate
+  337  ls
+  338  runserver
+  339  python manage.py runserver
+  340  cd app1
+  341  mkdir templates
+  342  cd templates/
+  343  touch index.html
+  344  cd ..
+  345  cd ..
+  346  ls
+  347  python manage.py runserver
+  348  python manage.py runserver
+  349  cd app1/
+  350  ls
+  351  cd ..
+  352  cd strona/
+  353  ls
+  354  cd static/
+  355  ls
+  356  cd js/
+  357  ls
+  358  cd ..
+  359  ls
+  360  cd ..
+  361  python
+  362  mkdir mystuff
+  363  cd mystuff
+  364  ls
+  365  cd Desktop
+  366  cd coding
+  367  ls
+  368  python3 xoxo.py
+  369  cd ..
+  370  cd ..
+  371  cd Desktop
+  372  cd coding
+  373  ls
+  374  python3 programslowa.py
+  375  klawiatura.py
+  376  cd Desktop
+  377  cd coding
+  378  ls
+  379  cd ..
+  380  cd ..
+  381  git --version
+  382  mkdir site1
+  383  cd site1
+  384  git --version
+  385  git config --global user.name "weronikajed"
+  386  git config --global user.email weronika.jed@gmail.com
+  387  git clone https://github.com/igusia/django-tutorial.git
+  388  ls
+  389  cd django-tutorial
+  390  ls
+  391  cd ..
+  392  cd ..
+  393  cd ..
+  394  cd ..
+  395  cd ..
+  396  cd ..
+  397  ls
+  398  cd home
+  399  ls
+  400  cd ..
+  401  cd users
+  402  ls
+  403  cd bogusz
+  404  ls
+  405  cd strona1
+  406  ls
+  407  source venv/bin/activate
+  408  cd ..
+  409  ls
+  410  cd desktop
+  411  cd coding
+  412  cd site1
+  413  cd site
+  414  ls
+  415  cd ..
+  416  cd ..
+  417  ls
+  418  cd site1
+  419  ls
+  420  cd django-tutorial
+  421  ls
+  422  python manage.py runserver
+  423  git fetch
+  424  ls
+  425  cd manage.py
+  426  cd mysite
+  427  ls
+  428  cd ..
+  429  cd myapp
+  430  ls
+  431  cd templates
+  432  cd ..
+  433  cd ..
+  434  python manage.py runserver
+  435  git status
+  436  git add  myapp/templates/index.html
+  437  git status
+  438  git commit -m "html change"
+  439  git status
+  440  git push
+  441  git push
+  442  git pull
+  443  git status
+  444  git push
+  445  git branch 
+  446  git checkout
+  447  git checkout -b "branch_test"
+  448  git branch
+  449  git status
+  450  git add
+  451  git add myapp/templates/index.html
+  452  git commit -m "first text"
+  453  git push remote branch_test
+  454  git push branch_test
+  455  git push
+  456  git push --set-upstream origin branch_test
+  457  ls
+  458  cd mysite/
+  459  ls
+  460  cd static/
+  461  ls
+  462  cd img
+  463  ls
+  464  python manage.py runserver
+  465  cd ..
+  466  cd ..
+  467  cd ..
+  468  python manage.py runserver
+  469  git add status
+  470  git status
+  471  git add myapp/templates/index.html
+  472  git add mysite/static/img/profile.png
+  473  git commit -m "image added"
+  474  git push
+  475  python manage.py runserver
+  476  cd desktop
+  477  cd coding
+  478  ls
+  479  python3 xoxo.py
+  480  cd desktop
+  481  cd coding
+  482  ls
+  483  python3 -m venv dj
+  484  source dj/bin/activate
+  485  django_admin
+  486  python3 -m venv dj
+  487  django_admin
+  488  pip install virtualenv 
+  489  source dj/bin/activate
+  490  runserver
+  491  django_admin runserver
+  492  ls
+  493  python3 dj
+  494  python manage.py runserver 
+  495  cd deskto[
+  496  cd desktop
+  497  cd coding
+  498  ls
+  499  cd bogusz
+  500  pwd
+  501  ls
+  502  cd strona1
+  503  ls
+  504  source venv/bin/activate 
+  505  cd strona
+  506  python manage.py runserver
+  507  deactivate
+  508  cd ..
+  509  ls
+  510  cd ..
+  511  ls
+  512  cd site1
+  513  ls
+  514  cd django-tutorial/
+  515  ls
+  516  cd mysite
+  517  ls
+  518  cd ..
+  519  cd ..
+  520  cd ..
+  521  cd strona1
+  522  ls
+  523  source venv/bin/activate
+  524  cd ..
+  525  cd site1
+  526  ls
+  527  cd django-tutorial/
+  528  ls
+  529  python manage.py runserver
+  530  python manage.py runserver
+  531  python manage.py runserver
+  532  git status
+  533  git add
+  534  git add mysite/static/css/freelancer.css
+  535  git status
+  536  git branch
+  537  git commit -m "change css"
+  538  git --version
+  539  git -v
+  540  git --help
+  541  git -h
+  542  git push
+  543  python manage.py runserver
+  544  git status
+  545  git add  myapp/templates/index.html
+  546  git status
+  547  git commit -m "title change"
+  548  git push
+  549  history
+  550  cd ..
+  551  cd ..
+  552  pwd
+  553  cd desktop
+  554  cd coding
+  555  mkdir test_folder
+  556  cd test_folder/
+  557  echo "siema" > plik.txt
+  558  ls
+  559  cat plik.txt
+  560  echo "siema"
+  561  echo "weronika"
+  562  echo "weronika" > plik.txt
+  563  cat plik.txt
+  564  echo "siema" >> plik.txt
+  565  cat plik.txt 
+  566  history
+  567  history > history.txt
